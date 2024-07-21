@@ -1,11 +1,12 @@
+# Programming Basics - JavaScript - Tag 3 (di8jul24)
 
-    ### Übungen gestern, Operatoren, Tutoring; Caroline hat eigene Version vom Countdown geschrieben:
+### Übungen gestern, Operatoren, Tutoring; Caroline hat eigene Version vom Countdown geschrieben:
 
 https://caroline-reichart.github.io/Feriencountdown/timer.js
 
 - ![alt text](image-1.png)
 
-    ### recap gestern:
+### recap gestern:
 
 - basic operators 
 
