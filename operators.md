@@ -36,7 +36,6 @@ Math.random() * 11
 Dezimalen weg: 
 ```javascript
 Math.floor(Math.random() * 10)
-
 ```
 
 - real-life Anwendungsbeispiele: 
