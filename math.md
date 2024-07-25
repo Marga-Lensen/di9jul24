@@ -1,7 +1,7 @@
 ### Math.ceil
 
 
-    Math.ceil(2.30) // 3
+Math.ceil(2.30) // 3
 
 
 ```javascript
